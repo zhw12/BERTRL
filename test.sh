@@ -7,7 +7,7 @@ CUDA_VISIBLE_DEVICES=0  python run_bertrl.py \
   --model_name_or_path ./output_${DATASET}${MODEL_SUFFIX}/ \
   --task_name MRPC \
   --do_predict \
-  --data_dir /scratch/home/hanwen/grail/grail_data/${DATASET}${DATA_SUFFIX}\
+  --data_dir ./bertrl_data/${DATASET}${DATA_SUFFIX}\
   --max_seq_length 128 \
   --output_dir output_${DATASET}${OUTPUT_SUFFIX}/ \
   --per_device_eval_batch_size 1000 \

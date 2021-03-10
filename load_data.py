@@ -380,7 +380,7 @@ def load_test(params):
             biG.add_edges_from([(e1, e2, dict(relation=r))])
             biG.add_edges_from([(e2, e1, dict(relation='inv-'+r))])
 
-    # load from unified grail generated test
+    # load from unified bertrl generated test
     num_samples = params.candidates
     for head_type in ['head', 'tail']:
         with open(f'{params.main_dir}/data/{params.dataset}{params.ind_suffix}/ranking_{head_type}.txt') as fin:  # fb237_ind

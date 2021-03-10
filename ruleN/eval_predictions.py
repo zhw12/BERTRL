@@ -116,7 +116,7 @@ if __name__ == '__main__':
                         help="Dataset string")
 
     params = parser.parse_args()
-    params.data_dir = f'/scratch/home/hanwen/grail/data/{params.dataset}'
+    params.data_dir = f'./data/{params.dataset}'
     params.pred_dir = './'
     # params.data_dir = os.path.join(os.path.relpath(os.path.dirname(os.path.abspath(__file__))), '../data/') + params.dataset
 
