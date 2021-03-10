@@ -1,0 +1,237 @@
+/soccer/football_team/current_roster./soccer/football_roster_position/position	football team current roster football roster position position
+/music/artist/origin	artist origin
+/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	hockey team current roster sports team roster position
+/food/food/nutrients./food/nutrition_fact/nutrient	food nutrients nutrition fact nutrient
+/film/actor/film./film/performance/film	actor film performance film
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	award nominee award nominations award nomination nominated for
+/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	political party politicians in this party political party tenure politician
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	person extra net worth dated money value currency
+/people/deceased_person/place_of_death	deceased person place of death
+/people/person/profession	person profession
+/location/administrative_division/first_level_division_of	administrative division first level division of
+/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team	ncaa basketball tournament seeds ncaa tournament seed team
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	university international tuition dated money value currency
+/location/us_county/county_seat	us county county seat
+/location/location/partially_contains	location partially contain
+/tv/tv_program/program_creator	tv program program creator
+/film/film/music	film music
+/tv/tv_program/languages	tv program language
+/common/topic/webpage./common/webpage/category	topic webpage webpage category
+/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	taxonomy subject entry taxonomy entry taxonomy
+/education/field_of_study/students_majoring./education/education/major_field_of_study	field of study students majoring education major field of study
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	business operation assets dated money value currency
+/film/film_set_designer/film_sets_designed	film set designer film sets designed
+/dataworld/gardening_hint/split_to	gardening hint split to
+/people/person/languages	person language
+/business/job_title/people_with_this_title./business/employment_tenure/company	job title people with this title employment tenure company
+/location/country/form_of_government	country form of government
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	organization extra phone number phone sandbox service language
+/people/person/place_of_birth	person place of birth
+/sports/sports_team/colors	sports team color
+/education/educational_institution/school_type	educational institution school type
+/award/award_category/winners./award/award_honor/award_winner	award category winners award honor award winner
+/organization/organization/headquarters./location/mailing_address/citytown	organization headquarters mailing address citytown
+/education/educational_degree/people_with_this_degree./education/education/student	educational degree people with this degree education student
+/government/legislative_session/members./government/government_position_held/legislative_sessions	legislative session members government position held legislative session
+/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium	film distributors film film distributor relationship film distribution medium
+/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	educational degree people with this degree education major field of study
+/location/hud_county_place/county	hud county place county
+/location/administrative_division/country	administrative division country
+/film/film/film_production_design_by	film film production design by
+/award/award_winning_work/awards_won./award/award_honor/award	award winning work awards won award honor award
+/organization/organization/headquarters./location/mailing_address/state_province_region	organization headquarters mailing address state province region
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	organization extra phone number phone sandbox contact category
+/tv/tv_program/country_of_origin	tv program country of origin
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	olympic participating country medals won olympic medal honor medal
+/location/country/second_level_divisions	country second level division
+/award/award_ceremony/awards_presented./award/award_honor/honored_for	award ceremony awards presented award honor honored for
+/organization/organization_member/member_of./organization/organization_membership/organization	organization member member of organization membership organization
+/education/educational_institution/campuses	educational institution campuse
+/music/artist/contribution./music/recording_contribution/performance_role	artist contribution recording contribution performance role
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	ranked item appears in ranked lists ranking list
+/people/person/religion	person religion
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	travel destination climate travel destination monthly climate month
+/film/special_film_performance_type/film_performance_type./film/performance/film	special film performance type film performance type performance film
+/award/award_nominee/award_nominations./award/award_nomination/award	award nominee award nominations award nomination award
+/location/statistical_region/religions./location/religion_percentage/religion	statistical region religions religion percentage religion
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	sports league draft picks sports league draft pick school
+/film/film/distributors./film/film_film_distributor_relationship/region	film distributors film film distributor relationship region
+/government/politician/government_positions_held./government/government_position_held/legislative_sessions	politician government positions held government position held legislative session
+/organization/role/leaders./organization/leadership/organization	role leaders leadership organization
+/tv/tv_network/programs./tv/tv_network_duration/program	tv network programs tv network duration program
+/soccer/football_team/current_roster./sports/sports_team_roster/position	football team current roster sports team roster position
+/music/instrument/instrumentalists	instrument instrumentalist
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	business operation operating income dated money value currency
+/people/cause_of_death/people	cause of death people
+/film/film/film_art_direction_by	film film art direction by
+/people/person/sibling_s./people/sibling_relationship/sibling	person sibling s sibling relationship sibling
+/film/film/cinematography	film cinematography
+/film/actor/dubbing_performances./film/dubbing_performance/language	actor dubbing performances dubbing performance language
+/base/biblioness/bibs_location/state	bibs location state
+/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	city with dogs top breeds dog city relationship dog breed
+/people/person/gender	person gender
+/education/field_of_study/students_majoring./education/education/student	field of study students majoring education student
+/base/popstra/celebrity/dated./base/popstra/dated/participant	celebrity dated dated participant
+/sports/sports_team/roster./american_football/football_roster_position/position	sports team roster football roster position position
+/award/award_winner/awards_won./award/award_honor/award_winner	award winner awards won award honor award winner
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	olympic participating country medals won olympic medal honor olympic
+/film/director/film	director film
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	tv producer programs produced tv producer term program
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	film distributor films distributed film film distributor relationship film
+/olympics/olympic_games/sports	olympic games sport
+/music/record_label/artist	record label artist
+/education/university/local_tuition./measurement_unit/dated_money_value/currency	university local tuition dated money value currency
+/film/film/story_by	film story by
+/people/person/spouse_s./people/marriage/spouse	person spouse s marriage spouse
+/sports/sports_league/teams./sports/sports_league_participation/team	sports league teams sports league participation team
+/people/profession/specialization_of	profession specialization of
+/base/americancomedy/celebrity_impressionist/celebrities_impersonated	celebrity impressionist celebrities impersonated
+/tv/tv_program/genre	tv program genre
+/award/award_category/nominees./award/award_nomination/nominated_for	award category nominees award nomination nominated for
+/language/human_language/countries_spoken_in	human language countries spoken in
+/organization/organization/headquarters./location/mailing_address/country	organization headquarters mailing address country
+/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	statistical region gdp real adjusted money value adjustment currency
+/education/university/fraternities_and_sororities	university fraternities and sororitie
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	award nominee award nominations award nomination award nominee
+/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	military combatant military conflicts military combatant group combatant
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	award nominated work award nominations award nomination nominated for
+/location/location/time_zones	location time zone
+/film/film/dubbing_performances./film/dubbing_performance/actor	film dubbing performances dubbing performance actor
+/film/film_subject/films	film subject film
+/education/educational_degree/people_with_this_degree./education/education/institution	educational degree people with this degree education institution
+/education/educational_institution/colors	educational institution color
+/award/award_category/category_of	award category category of
+/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	tv personality tv regular appearances tv regular personal appearance program
+/film/film/language	film language
+/music/group_member/membership./music/group_membership/group	group member membership group membership group
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency	business operation revenue dated money value currency
+/film/film/film_festivals	film film festival
+/film/actor/film./film/performance/special_performance_type	actor film performance special performance type
+/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency	non profit organization registered with non profit registration registering agency
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	politician government positions held government position held jurisdiction of office
+/base/aareas/schema/administrative_area/administrative_parent	administrative area administrative parent
+/award/award_winning_work/awards_won./award/award_honor/award_winner	award winning work awards won award honor award winner
+/organization/organization/place_founded	organization place founded
+/soccer/football_player/current_team./sports/sports_team_roster/team	football player current team sports team roster team
+/government/politician/government_positions_held./government/government_position_held/basic_title	politician government positions held government position held basic title
+/music/artist/track_contributions./music/track_contribution/role	artist track contributions track contribution role
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	seasonal month produce available produce availability seasonal month
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	celebrity celebrity friends friendship friend
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	professional sports team draft picks sports league draft pick school
+/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	hall of fame inductees hall of fame induction inductee
+/influence/influence_node/peers./influence/peer_relationship/peers	influence node peers peer relationship peer
+/medicine/disease/risk_factors	disease risk factor
+/broadcast/content/artist	content artist
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	film estimated budget dated money value currency
+/military/military_conflict/combatants./military/military_combatant_group/combatants	military conflict combatants military combatant group combatant
+/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	capital of administrative division capital of administrative division capital relationship administrative division
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	tv program regular cast regular tv appearance actor
+/people/deceased_person/place_of_burial	deceased person place of burial
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	location adjoin s adjoining relationship adjoin
+/music/group_member/membership./music/group_membership/role	group member membership group membership role
+/award/award_ceremony/awards_presented./award/award_honor/award_winner	award ceremony awards presented award honor award winner
+/film/film/prequel	film prequel
+/film/film/produced_by	film produced by
+/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	tv program tv producer tv producer term producer type
+/sports/sports_position/players./sports/sports_team_roster/team	sports position players sports team roster team
+/olympics/olympic_games/participating_countries	olympic games participating countrie
+/music/genre/parent_genre	genre parent genre
+/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	tv writer tv programs tv program writer relationship tv program
+/music/genre/artists	genre artist
+/film/film/genre	film genre
+/people/person/employment_history./business/employment_tenure/company	person employment history employment tenure company
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	university domestic tuition dated money value currency
+/people/person/nationality	person nationality
+/location/country/capital	country capital
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	statistical region gni per capita in ppp dollars dated money value currency
+/base/aareas/schema/administrative_area/capital	administrative area capital
+/business/business_operation/industry	business operation industry
+/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	hud foreclosure area estimated number of mortgages dated integer source
+/film/film/other_crew./film/film_crew_gig/crewmember	film other crew film crew gig crewmember
+/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	location vacationers vacation choice vacationer
+/film/film/film_format	film film format
+/medicine/disease/notable_people_with_this_condition	disease notable people with this condition
+/film/film/costume_design_by	film costume design by
+/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	government office category officeholders government position held jurisdiction of office
+/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	statistical region gdp nominal dated money value currency
+/sports/sports_team/roster./baseball/baseball_roster_position/position	sports team roster baseball roster position position
+/award/award_winning_work/awards_won./award/award_honor/honored_for	award winning work awards won award honor honored for
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	olympic sport athletes olympic athlete affiliation olympic
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	celebrity sexual relationships romantic relationship celebrity
+/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	marriage union type unions of this type marriage location of ceremony
+/organization/organization/child./organization/organization_relationship/child	organization child organization relationship child
+/organization/organization_founder/organizations_founded	organization founder organizations founded
+/sports/sports_team/sport	sports team sport
+/people/ethnicity/geographic_distribution	ethnicity geographic distribution
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	statistical region places exported to imports and exports exported to
+/location/country/official_language	country official language
+/film/film/production_companies	film production companie
+/user/jg/default_domain/olympic_games/sports	olympic games sport
+/time/event/locations	event location
+/people/person/spouse_s./people/marriage/type_of_union	person spouse s marriage type of union
+/government/governmental_body/members./government/government_position_held/legislative_sessions	governmental body members government position held legislative session
+/media_common/netflix_genre/titles	netflix genre title
+/user/alexander/philosophy/philosopher/interests	philosopher interest
+/film/film/runtime./film/film_cut/film_release_region	film runtime film cut film release region
+/education/educational_institution/students_graduates./education/education/student	educational institution students graduates education student
+/base/eating/practicer_of_diet/diet	practicer of diet diet
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	non character role tv regular personal appearances tv regular personal appearance person
+/sports/sports_position/players./sports/sports_team_roster/position	sports position players sports team roster position
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	professional sports team draft picks sports league draft pick draft
+/medicine/symptom/symptom_of	symptom symptom of
+/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	person or entity appearing in film films personal film appearance type of appearance
+/sports/sports_team_location/teams	sports team location team
+/american_football/football_team/current_roster./sports/sports_team_roster/position	football team current roster sports team roster position
+/people/person/places_lived./people/place_lived/location	person places lived place lived location
+/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	statistical region rent50 2 dated money value currency
+/film/film/personal_appearances./film/personal_film_appearance/person	film personal appearances personal film appearance person
+/music/instrument/family	instrument family
+/sports/sports_team/roster./basketball/basketball_roster_position/position	sports team roster basketball roster position position
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	organization extra phone number phone sandbox service location
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	film release date s film regional release date film release region
+/award/award_category/disciplines_or_subjects	award category disciplines or subject
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	celebrity friendship friendship participant
+/music/performance_role/regular_performances./music/group_membership/group	performance role regular performances group membership group
+/film/film/edited_by	film edited by
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	world cup squad current world cup squad current world cup squad current club
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	celebrity canoodled canoodled participant
+/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium	film release date s film regional release date film release distribution medium
+/film/film/other_crew./film/film_crew_gig/film_crew_role	film other crew film crew gig film crew role
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant	celebrity breakup breakup participant
+/film/film/country	film country
+/music/performance_role/regular_performances./music/group_membership/role	performance role regular performances group membership role
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	sports team roster football historical roster position position
+/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	film release date s film regional release date film regional debut venue
+/time/event/instance_of_recurring_event	event instance of recurring event
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	olympic participating country athletes olympic athlete affiliation olympic
+/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	endowed organization endowment dated money value currency
+/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	travel destination how to get here transportation mode of transportation
+/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season	baseball team team stats baseball team stats season
+/award/award_category/winners./award/award_honor/ceremony	award category winners award honor ceremony
+/government/legislative_session/members./government/government_position_held/district_represented	legislative session members government position held district represented
+/influence/influence_node/influenced_by	influence node influenced by
+/base/culturalevent/event/entity_involved	event entity involved
+/people/ethnicity/people	ethnicity people
+/sports/sport/pro_athletes./sports/pro_sports_played/athlete	sport pro athletes pro sports played athlete
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	statistical region gdp nominal per capita dated money value currency
+/location/hud_county_place/place	hud county place place
+/base/aareas/schema/administrative_area/administrative_area_type	administrative area administrative area type
+/base/locations/continents/countries_within	continents countries within
+/sports/sports_position/players./american_football/football_historical_roster_position/position_s	sports position players football historical roster position position
+/people/person/spouse_s./people/marriage/location_of_ceremony	person spouse s marriage location of ceremony
+/education/educational_institution/students_graduates./education/education/major_field_of_study	educational institution students graduates education major field of study
+/film/film/written_by	film written by
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	olympic sport athletes olympic athlete affiliation country
+/music/performance_role/guest_performances./music/recording_contribution/performance_role	performance role guest performances recording contribution performance role
+/film/film/featured_film_locations	film featured film location
+/education/educational_institution_campus/educational_institution	educational institution campus educational institution
+/sports/pro_athlete/teams./sports/sports_team_roster/team	pro athlete teams sports team roster team
+/people/ethnicity/languages_spoken	ethnicity languages spoken
+/film/film/executive_produced_by	film executive produced by
+/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type	tv producer programs produced tv producer term producer type
+/location/location/contains	location contain
+/base/biblioness/bibs_location/country	bibs location country
+/user/ktrueman/default_domain/international_organization/member_states	international organization member state
+/music/performance_role/track_performances./music/track_contribution/role	performance role track performances track contribution role
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	olympic games medals awarded olympic medal honor medal
+/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	snl cast member seasons snl season tenure cast member

@@ -1,0 +1,199 @@
+concept:agriculturalproductgrowinginstateorprovince	agricultural product growing in state or province
+concept:itemfoundinroom	item found in room
+concept:personbelongstoorganization	person belongs to organization
+concept:televisionstationaffiliatedwith	television station affiliated with
+concept:awardtrophytournamentisthechampionshipgameofthenationalsport	award trophy tournament is the championship game of the national sport
+concept:atlocation	at location
+concept:invertebratefeedonfood	invertebrate feed on food
+concept:sportsgamesport	sports games port
+concept:personalsoknownas	person also known as
+concept:emotionassociatedwithdisease	emotion associated with disease
+concept:agriculturalproductcontainchemical	agricultural product contain chemical
+concept:plantgrowinginplant	plant growing in plant
+concept:athletewinsawardtrophytournament	athlete wins award trophy tournament
+concept:languageofcountry	language of country
+concept:ismultipleof	is multiple of
+concept:airportincity	airport in city
+concept:radiostationincity	radio station in city
+concept:personhasresidenceingeopoliticallocation	person has residence in geopolitical location
+concept:companyeconomicsector	company economic sector
+concept:automobilemakercardealersinstateorprovince	automobile maker car dealers in state or province
+concept:mammalsuchasmammal	mammal such as mammal
+concept:statelocatedingeopoliticallocation	state located in geopolitical location
+concept:politicianrepresentslocation	politician represents location
+concept:actorstarredinmovie	actor starred in movie
+concept:cityliesonriver	city lies on river
+concept:drugpossiblytreatsphysiologicalcondition	drug possibly treats physiological condition
+concept:personhascitizenship	person has citizenship
+concept:organizationheadquarteredincity	organization headquartered in city
+concept:objectpartofobject	object part of object
+concept:animalthatfeedoninsect	animal that feed on insect
+concept:agriculturalproductcutintogeometricshape	agricultural product cut into geometric shape
+concept:bakedgoodservedwithbeverage	baked good served with beverage
+concept:teamplaysagainstteam	team plays against team
+concept:automakerproducesmodel	auto maker produces model
+concept:hasspouse	has spouse
+concept:arthropodandotherarthropod	arthropod and other arthropod
+concept:persongraduatedschool	person graduated school
+concept:athleteplaysinleague	athlete plays in league
+concept:synonymfor	synonym for
+concept:coachesinleague	coaches in league
+concept:animalsuchasfish	animal such as fish
+concept:persondiedincountry	person died in country
+concept:subpartoforganization	subpart of organization
+concept:hotelincity	hotel in city
+concept:weaponmadeincountry	weapon made in country
+concept:istallerthan	is taller than
+concept:topmemberoforganization	top member of organization
+concept:agriculturalproductgrowninlandscapefeatures	agricultural product grown in landscape features
+concept:persongraduatedfromuniversity	person graduated from university
+concept:touristattractionsuchastouristattraction	tourist attraction such as tourist attraction
+concept:academicprogramatuniversity	academic program at university
+concept:cityalsoknownas	city also known as
+concept:attractionofcity	attraction of city
+concept:conceptprerequisiteof	concept prerequisite of
+concept:buildingfeaturemadefrombuildingmaterial	building feature made from building material
+concept:fishservedwithfood	fish served with food
+concept:animaleatvegetable	animal eat vegetable
+concept:personmovedtostateorprovince	person moved to state or province
+concept:parkincity	parkincity
+concept:agentcreated	agentcreated
+concept:personhasjobposition	personhasjobposition
+concept:plantrepresentemotion	plantrepresentemotion
+concept:academicfieldconcernssubject	academicfieldconcernssubject
+concept:proxyfor	proxyfor
+concept:stateorprovinceisborderedbystateorprovince	state or province is bordered by state or province
+concept:teamwontrophy	team won trophy
+concept:motherofperson	mother of person
+concept:athletebeatathlete	athlete beat athlete
+concept:organizationterminatedperson	organization terminated person
+concept:teamhomestadium	team home stadium
+concept:mutualproxyfor	mutual proxy for
+concept:agentinvolvedwithitem	agent involved with item
+concept:persondiedatage	person died at age
+concept:professionistypeofprofession	profession is type of profession
+concept:animaldevelopdisease	animal develop disease
+concept:athletehomestadium	athlete home stadium
+concept:bankboughtbank	bank bought bank
+concept:companyalsoknownas	company also known as
+concept:weaponssuchasweapons	weapons such as weapons
+concept:personchargedwithcrime	person charged with crime
+concept:personborninlocation	person born in location
+concept:televisionstationincity	television station in city
+concept:animalsuchasinsect	animal such as insect
+concept:transportationincity	transportation in city
+concept:locationlocatedwithinlocation	location located within location
+concept:atdate	at date
+concept:chemicalistypeofchemical	chemical is typeof chemical
+concept:worksfor	works for
+concept:athleteflyouttosportsteamposition	athlete fly out to sports team position
+concept:statelocatedincountry	state located in country
+concept:plantincludeplant	plant include plant
+concept:hasofficeincountry	has office in country
+concept:coachwontrophy	coach won trophy
+concept:agriculturalproductcamefromcountry	agricultural product came from country
+concept:parentofperson	parentofperson
+concept:buildinglocatedincity	building located in city
+concept:sporthassportsteamposition	sport has sports team position
+concept:clothingtogowithclothing	clothing to go with clothing
+concept:acquired	acquired
+concept:athleteinjuredhisbodypart	athlete injured his bodypart
+concept:automobilemakerdealersincountry	automobile maker dealers in country
+concept:animaleatfood	animal eat food
+concept:agriculturalproductcookedwithagriculturalproduct	agricultural product cooked with agricultural product
+concept:teamplaysincity	team plays in city
+concept:lakeinstate	lake in state
+concept:fooddecreasestheriskofdisease	food decreases the risk of disease
+concept:organizationheadquarteredincountry	organization headquartered in country
+concept:thinghasshape	thing has shape
+concept:agentcontributedtocreativework	agent contributed to creative work
+concept:musicianinmusicartist	musician in music artist
+concept:citylocatedinstate	city located in state
+concept:objectfoundinscene	object found in scene
+concept:agentcollaborateswithagent	agent collaborates with agent
+concept:statehascapital	state has capital
+concept:athleteplayssport	athlete plays sport
+concept:riveremptiesintoriver	river empties into river
+concept:headquarteredin	headquartered in
+concept:visualartistartform	visual artistart form
+concept:hobbiessuchashobbies	hobbies such as hobbies
+concept:countryalsoknownas	country also known as
+concept:personbornincity	person born in city
+concept:arterycalledartery	artery called artery
+concept:agentactsinlocation	agent acts in location
+concept:museumincity	museum in city
+concept:politicianusholdsoffice	politician us holds office
+concept:sportsgameteam	sports game team
+concept:journalistwritesforpublication	journalist writes for publication
+concept:athleteplayssportsteamposition	athlete plays sports team position
+concept:drughassideeffect	drug has side effect
+concept:hashusband	has husband
+concept:organizationdissolvedatdate	organization dissolved at date
+concept:sportfansincountry	sport fans in country
+concept:directordirectedmovie	director directed movie
+concept:agriculturalproductincludingagriculturalproduct	agricultural product including agricultural product
+concept:thinghascolor	thing has color
+concept:leaguestadiums	league stadiums
+concept:beveragemadefrombeverage	beverage made from beverage
+concept:politicianholdsoffice	politician holds office
+concept:drugworkedonbyagent	drug worked on by agent
+concept:hasofficeincity	has office in city
+concept:organizationacronymhasname	organization acronym ha sname
+concept:bankbankincountry	bank bank in country
+concept:countrycurrency	country currency
+concept:citylocatedingeopoliticallocation	city located in geopolitical location
+concept:personleadsgeopoliticalorganization	person leads geopolitical organization
+concept:stadiumlocatedincity	stadium located in city
+concept:citylocatedincountry	city located in country
+concept:personleadsorganization	person leads organization
+concept:athleteledsportsteam	athleteled sports team
+concept:coachesteam	coaches team
+concept:hassibling	has sibling
+concept:countrylocatedingeopoliticallocation	country located in geopolitical location
+concept:teamplaysinleague	team plays in league
+concept:animalsuchasinvertebrate	animal such as invertebrate
+concept:agriculturalproductcomingfromvertebrate	agricultural product coming from vertebrate
+concept:sportschoolincountry	sport school in country
+concept:furniturefoundinroom	furniture found in room
+concept:foodcancausedisease	food can cause disease
+concept:politicianusmemberofpoliticalgroup	politician us member of political group
+concept:bookwriter	book writer
+concept:musicgenressuchasmusicgenres	music genres such as music genres
+concept:fatherofperson	father of person
+concept:arthropodcalledarthropod	arthropod called arthropod
+concept:teamplayssport	team plays sport
+concept:producesproduct	produces product
+concept:bodypartcontainsbodypart	body part contains body part
+concept:animalistypeofanimal	animal is type of animal
+concept:beveragecontainsprotein	beverage contains protein
+concept:newspaperincity	newspaper in city
+concept:animalpreyson	animal preys on
+concept:clothingmadefromplant	clothing made from plant
+concept:mountaininstate	mountain in state
+concept:ceoof	ceo of
+concept:sportusesstadium	sport uses stadium
+concept:automobilemakerdealersincity	automobile maker dealers in city
+concept:musicianplaysinstrument	musician plays instrument
+concept:teamalsoknownas	team also known as
+concept:professionusestool	profession uses tool
+concept:sportsgamewinner	sports game winner
+concept:agentbelongstoorganization	agent belongs to organization
+concept:competeswith	competes with
+concept:haswife	has wife
+concept:sportusesequipment	sport uses equipment
+concept:citycapitalofcountry	city capital of country
+concept:organizationalsoknownas	organization also known as
+concept:agentparticipatedinevent	agent participated in event
+concept:agentcompeteswithagent	agent competes with agent
+concept:bacteriaisthecausativeagentofphysiologicalcondition	bacteria is the causative agent of physiological condition
+concept:academicfieldsuchasacademicfield	academic field such as academic field
+concept:organizationheadquarteredinstateorprovince	organization headquartered in state or province
+concept:agriculturalproducttoattractinsect	agricultural product to attract insect
+concept:subpartof	subpart of
+concept:musicartistgenre	musicartist genre
+concept:agentcontrols	agent controls
+concept:politicianusendorsedbypoliticianus	politician us endorsed by politician us
+concept:languageofuniversity	language of university
+concept:specializationof	specialization of
+concept:athleteplaysforteam	athlete plays for team
+concept:organizationhiredperson	organization hired person
