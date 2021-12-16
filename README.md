@@ -1,6 +1,5 @@
 # BERTRL: Inductive Relation Prediction by BERT
-Code and Data for Paper [Inductive Relation Prediction by BERT], this paper proposes an algorithm to do knowledge base completion leverging pre-trained langauge models.
-
+Code and data for AAAI2022 paper [Inductive Relation Prediction by BERT], which aims to study the problem of exploiting structural and textual information in knowledge graph completion leverging pre-trained langauge models. BERTRL feeds texts of candidate triple instances and their possible reasoning paths to BERT and predicts the existence of the triple.
 
 ## Requirements:
 - [huggingface transformer 3.3.1](https://github.com/huggingface/transformers)
@@ -34,5 +33,16 @@ We provide example bash scripts in test.bash.
 This generates the BERTRL scoring for each of its examples. Then we evaluate the final ranking results by additional script aggregating the results. Here is an example.
 python eval_bert.py -d ${DATASET}_hop3_full_neg10_path3_max_inductive
 
+## Citation
+If you find this project useful, please cite it using the following format
+
+
+	@article{Teru2020InductiveRP,
+	  title={Inductive Relation Prediction by Subgraph Reasoning.},
+	  author={Komal K. Teru and Etienne Denis and William L. Hamilton},
+	  journal={arXiv: Learning},
+	  year={2020}
+	}
+
 ## Q&A
-If you encounter any problem, please either directly contact the first author or leave an issue in the github repo.
+If you have any questions about the paper and the github, please feel free to leave an issue or send me an email.
