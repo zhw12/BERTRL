@@ -1,5 +1,5 @@
 # BERTRL: Inductive Relation Prediction by BERT
-Code and data for AAAI2022 paper [Inductive Relation Prediction by BERT], which aims to study the problem of exploiting structural and textual information in knowledge graph completion leverging pre-trained langauge models. BERTRL feeds texts of candidate triple instances and their possible reasoning paths to BERT and predicts the existence of the triple.
+Code and data for AAAI2022 paper [Inductive Relation Prediction by BERT](https://arxiv.org/pdf/2103.07102.pdf), which aims to study the problem of exploiting structural and textual information in knowledge graph completion. leverging pre-trained langauge models. BERTRL feeds texts of candidate triple instances and their possible reasoning paths to BERT and predicts the existence of the triple.
 
 ## Requirements:
 - [huggingface transformer 3.3.1](https://github.com/huggingface/transformers)
