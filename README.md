@@ -37,12 +37,11 @@ python eval_bert.py -d ${DATASET}_hop3_full_neg10_path3_max_inductive
 If you find this project useful, please cite it using the following format
 
 
-	@article{Teru2020InductiveRP,
-	  title={Inductive Relation Prediction by Subgraph Reasoning.},
-	  author={Komal K. Teru and Etienne Denis and William L. Hamilton},
-	  journal={arXiv: Learning},
-	  year={2020}
-	}
-
+    @article{zha2021inductive,
+    title={Inductive Relation Prediction by BERT},
+    author={Zha, Hanwen and Chen, Zhiyu and Yan, Xifeng},
+    journal={arXiv preprint arXiv:2103.07102},
+    year={2021}
+    }
 ## Q&A
 If you have any questions about the paper and the github, please feel free to leave an issue or send me an email.
