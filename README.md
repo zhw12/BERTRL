@@ -1,5 +1,5 @@
 # BERTRL: Inductive Relation Prediction by BERT
-Code and data for AAAI2022 paper [Inductive Relation Prediction by BERT](https://arxiv.org/pdf/2103.07102.pdf), which aims to study the problem of exploiting structural and textual information in knowledge graph completion. leverging pre-trained langauge models. BERTRL feeds texts of candidate triple instances and their possible reasoning paths to BERT and predicts the existence of the triple.
+Code and data for AAAI2022 paper [Inductive Relation Prediction by BERT](https://arxiv.org/pdf/2103.07102.pdf), which aims to study the problem of exploiting structural and textual information in knowledge graph completion leverging pre-trained langauge models. BERTRL feeds texts of candidate triple instances and their possible reasoning paths to BERT and predicts the existence of the triple.
 
 ## Requirements:
 - [huggingface transformer 3.3.1](https://github.com/huggingface/transformers)
@@ -32,6 +32,14 @@ We provide example bash scripts in train.bash
 We provide example bash scripts in test.bash.
 This generates the BERTRL scoring for each of its examples. Then we evaluate the final ranking results by additional script aggregating the results. Here is an example.
 python eval_bert.py -d ${DATASET}_hop3_full_neg10_path3_max_inductive
+
+3. Hyperpameters
+Our provided training and evaluating scirpts use the hyperparameters mentioned in the paper. Check our paper for more details.
+
+## Baselines
+We use code provided by authors for baselines in our experiments.
+RuleN is a ruled-based method. Detailed instructions can be found [here](http://web.informatik.uni-mannheim.de/RuleN/).
+GraIL is subgraph reasoning method. Detailed instructions can be found [here](https://github.com/kkteru/grail).
 
 ## Citation
 If you find this project useful, please cite it using the following format
