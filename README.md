@@ -6,6 +6,9 @@ Code and data for AAAI2022 paper [Inductive Relation Prediction by BERT](https:/
 - [pytorch 1.5.0](https://pytorch.org/)
 - networkx 2.5
 - tqdm
+- numpy
+- sklearn
+- ipdb
 
 ## Download the Dataset Split
 Here we provide the data split used in paper in folder "data". The $DATASET$PART and $DATASET$PART_ind contain corresponding transductive and inductive subgraphs. 
@@ -20,8 +23,8 @@ They are actual tsv data examples required for BERTRL. Here we show the example 
 part paramerter can be specified as full, 1000, 2000, referring to folder "data".
 
 ```
-python load_data.py -d $DATASET -st train --part full --hop 3 --ind_suffix "_ind" --suffix "_neg10_path3_max_inductive"
-python load_data.py -d $DATASET -st test --part full --hop 3 --ind_suffix "_ind" --suffix "_neg10_path3_max_inductive"
+python load_data.py -d $DATASET -st train --part full --hop 3 --ind_suffix "_ind" --suffix "_neg10_max_inductive"
+python load_data.py -d $DATASET -st test --part full --hop 3 --ind_suffix "_ind" --suffix "_neg10_max_inductive"
 ```
 
 ## BERTRL
@@ -31,7 +34,7 @@ We provide example bash scripts in train.bash
 2. Evaluating model
 We provide example bash scripts in test.bash.
 This generates the BERTRL scoring for each of its examples. Then we evaluate the final ranking results by additional script aggregating the results. Here is an example.
-python eval_bert.py -d ${DATASET}_hop3_full_neg10_path3_max_inductive
+python eval_bert.py -d ${DATASET}_hop3_full_neg10_max_inductive
 
 3. Hyperpameters
 Our provided training and evaluating scirpts use the hyperparameters mentioned in the paper. Check our paper for more details.
